@@ -26,7 +26,7 @@ This project it was a challenge because I had only seen the front-end part and t
 - Open in your editor of choice (I use VS Code)
 - npm i (for missing packages)
 - Run with node in the terminal inside VS Code (node index.js)
-- **Tip:** I would install **nodemon** for running the server, since nodemon updates your code whenever you make a change, this way you don’t need to refresh the browser all the time.
+- **Tip:** I would install **nodemon** for running the server, since nodemon updates your code whenever you make a change, this way you don’t need to stop and start your server in the terminal.
 
 ### 🫴🏽**Preview**
 
