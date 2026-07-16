@@ -1,4 +1,4 @@
-# Blog Application 🖥️
+# Blog-Application 🖥️
 
 ### This project involves everything I’ve learned so far related to back-end. It’s a simple blog website, the main objective is for users to create their own articles, delete and/or modify them.
 
